@@ -28,7 +28,7 @@ My work included IoT asset-tracking deployment across LATAM and North America, K
 
 ## Engineering and scientific foundation
 
-- **University of Central Florida:** B.S. in Computer Science, 2017–2021.
+- **University of Central Florida:** B.S. in Computer Science, 2017–2021. Focus: data, statistics, and artificial intelligence (AI) models.
 - **University of Buenos Aires, Faculty of Engineering:** Industrial Engineering coursework, 2006–2011. **16 subjects passed; degree not completed.**
 
 My UBA coursework included physics, chemistry, thermodynamics, mechanics, electrical technology, computing, advanced mathematics, probability and statistics, and industrial organization. Industrial Organization coursework covered production planning, lean manufacturing, quality management, supply chains, maintenance, and continuous improvement.
@@ -59,3 +59,4 @@ OpsHub is **in progress, not a finished production SaaS product**. See its [READ
 I'm interested in software, data, automation, and technical implementation opportunities where understanding the whole process matters—not only the code.
 
 For professional opportunities or collaboration, connect with me on [LinkedIn](https://www.linkedin.com/in/jorge-d-fochezato-030bb830/) or visit my [portfolio](https://jorge-fochezato.jorge-fochezato.chatgpt.site/).
+
