@@ -37,7 +37,9 @@ This foundation helps me understand machinery and industrial processes, communic
 
 ## Technical toolkit
 
-**Professional experience:** Python · SQL · PySpark · Apache Zeppelin · Dataset · VBA · C++ · MATLAB
+**Professional experience:** Python · SQL · PySpark · Power BI · Apache Zeppelin · Dataset · VBA · C++ · MATLAB
+
+I use Power BI and develop solutions within that environment. I also have knowledge of Microsoft Fabric and its role in corporate data ecosystems, complementing my focus on making data useful and accessible across teams.
 
 **Current portfolio development:** TypeScript · PostgreSQL · Prisma · Docker Compose · GitHub Actions
 
@@ -59,4 +61,3 @@ OpsHub is **in progress, not a finished production SaaS product**. See its [READ
 I'm interested in software, data, automation, and technical implementation opportunities where understanding the whole process matters—not only the code.
 
 For professional opportunities or collaboration, connect with me on [LinkedIn](https://www.linkedin.com/in/jorge-d-fochezato-030bb830/) or visit my [portfolio](https://jorge-fochezato.jorge-fochezato.chatgpt.site/).
-
