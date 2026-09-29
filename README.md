@@ -1,63 +1,48 @@
 # Jorge D. Fochezato
 
-### Connecting physical systems, data, and teams through software and automation
+Software development, data analysis, and engineering automation.
 
-I work at the intersection of software, data, engineering, and industrial operations. My experience spans semiconductor R&D and IoT deployment, with a focus on understanding a solution from its physical components to the information people use to make decisions.
-
-I look for the underlying structure of a process: inputs and outputs, physical constraints, measurements, bottlenecks, and handoffs. I use software to make information easier to share, reduce communication errors and repetitive work, and help teams lower the cost of everyday operations.
+I develop software and data tools for engineering and operations teams. My experience includes semiconductor R&D, IoT deployment, and Power BI development. I focus on reducing manual work and errors when information passes between teams.
 
 [Portfolio](https://jorge-fochezato.jorge-fochezato.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/jorge-d-fochezato-030bb830/)
 
-## Experience in context
+## Experience
 
-### Qorvo — Semiconductor R&D and engineering automation
+### Qorvo | Semiconductor R&D and automation | 2014–2022
 
-My focus included electronic design automation (EDA), electromagnetic design, microelectromechanical systems (MEMS), and bulk acoustic wave (BAW) filters for high-frequency wireless applications in telecommunications, mobile devices, and IoT.
+- Built engineering tools with Python, VBA, C++, and MATLAB. Helped reduce an engineering process from four weeks to four days.
+- Developed an automation connecting electrical design, physical geometry, and finite element method (FEM) simulation of microdevices.
+- Worked with electronic design automation (EDA), electromagnetic design, microelectromechanical systems (MEMS), and bulk acoustic wave (BAW) filters for high-frequency wireless applications in telecommunications, mobile devices, and IoT.
 
-- Built tools with Python, VBA, C++, and MATLAB to support engineering workflows.
-- Helped shorten an engineering process from **four weeks to four days** through automation and process standardization.
-- Developed an automation connecting an electrical design tool with physical geometry and finite element method (FEM) simulation of microdevices, reducing manual handoffs between tools.
+### Brambles | IoT deployment and data analysis | 2023–2025
 
-This work connected software development with an understanding of physics, semiconductor processes, and the needs of engineering teams.
+- Worked across hardware, raw data collection, PySpark pipelines in Apache Zeppelin, and SQL analysis in Dataset.
+- Supported IoT asset-tracking deployment across North America and LATAM, with KPI reporting, diagnostic scripts, documentation, and validation workflows.
 
-### Brambles — End-to-end IoT delivery and data analysis
-
-I worked across the IoT solution from hardware and raw data collection through PySpark pipelines running in Apache Zeppelin to SQL-based analysis in Dataset. That end-to-end understanding helped me trace information across stages and coordinate technical and operational teams.
-
-My work included IoT asset-tracking deployment across LATAM and North America, KPI dashboards and diagnostic scripts, documentation, validation workflows, and cross-functional improvement efforts.
-
-## Engineering and scientific foundation
+## Education
 
 - **University of Central Florida:** B.S. in Computer Science, 2017–2021. Focus: data, statistics, and artificial intelligence (AI) models.
-- **University of Buenos Aires, Faculty of Engineering:** Industrial Engineering coursework, 2006–2011. **16 subjects passed; degree not completed.**
+- **University of Buenos Aires, Faculty of Engineering:** Industrial Engineering coursework, 2006–2011. Completed 16 engineering subjects.
 
-My UBA coursework included physics, chemistry, thermodynamics, mechanics, electrical technology, computing, advanced mathematics, probability and statistics, and industrial organization. Industrial Organization coursework covered production planning, lean manufacturing, quality management, supply chains, maintenance, and continuous improvement.
+UBA coursework included physics, chemistry, thermodynamics, mechanics, electrical technology, computing, statistics, and industrial organization. Topics included production planning, lean manufacturing, quality management, supply chains, maintenance, and continuous improvement.
 
-This foundation helps me understand machinery and industrial processes, communicate across scientific and engineering disciplines, and recognize patterns that apply across industries.
+## Technical skills
 
-## Technical toolkit
+**Professional experience:** Python, SQL, PySpark, Power BI, Apache Zeppelin, Dataset, VBA, C++, MATLAB.
 
-**Professional experience:** Python · SQL · PySpark · Power BI · Apache Zeppelin · Dataset · VBA · C++ · MATLAB
+I use Power BI and develop solutions in that environment. I also have knowledge of Microsoft Fabric for corporate data ecosystems.
 
-I use Power BI and develop solutions within that environment. I also have knowledge of Microsoft Fabric and its role in corporate data ecosystems, complementing my focus on making data useful and accessible across teams.
+**Portfolio development:** TypeScript, PostgreSQL, Prisma, Docker Compose, GitHub Actions.
 
-**Current portfolio development:** TypeScript · PostgreSQL · Prisma · Docker Compose · GitHub Actions
+## Project: OpsHub
 
-## Featured project: OpsHub
+[OpsHub](https://github.com/jorgefochezato-gif/opshub) is an ongoing software engineering learning project. Completed work includes a typed monorepo, automated quality checks, a multi-tenant PostgreSQL/Prisma data model, migrations, repeatable seed data, pagination queries, and query-plan analysis.
 
-[OpsHub](https://github.com/jorgefochezato-gif/opshub) is my ongoing learning and portfolio project for practicing production-oriented software engineering through incremental, verifiable delivery.
+API endpoints, authentication, and the web interface are planned work. See the [project README](https://github.com/jorgefochezato-gif/opshub#current-status) for current status.
 
-The completed repository and database foundations demonstrate:
+## Contact
 
-- A typed monorepo and pull-request workflow with automated quality checks.
-- A multi-tenant PostgreSQL data model with Prisma schema and migrations.
-- Repeatable development data, representative queries, and pagination.
-- Query-plan analysis, index optimization, and documented backup-and-restore procedures.
+I'm interested in software development, data analysis, automation, and technical implementation opportunities.
 
-OpsHub is **in progress, not a finished production SaaS product**. See its [README](https://github.com/jorgefochezato-gif/opshub#current-status) for current implementation status and the distinction between completed work and planned capabilities.
+Contact me through [LinkedIn](https://www.linkedin.com/in/jorge-d-fochezato-030bb830/) or my [portfolio](https://jorge-fochezato.jorge-fochezato.chatgpt.site/).
 
-## Let's connect
-
-I'm interested in software, data, automation, and technical implementation opportunities where understanding the whole process matters—not only the code.
-
-For professional opportunities or collaboration, connect with me on [LinkedIn](https://www.linkedin.com/in/jorge-d-fochezato-030bb830/) or visit my [portfolio](https://jorge-fochezato.jorge-fochezato.chatgpt.site/).
