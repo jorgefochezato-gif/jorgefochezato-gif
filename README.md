@@ -8,7 +8,13 @@ I develop software and data tools for engineering and operations teams. My exper
 
 ## Experience
 
-### Qorvo | Semiconductor R&D and automation | 2014–2022
+### Qorvo | Semiconductor R&D and automation | Jul 2014–Dec 2022
+
+- **EDA Engineering Technician:** Jan 2020–Dec 2022.
+- **BAW R&D Engineering Technician:** Feb 2016–Jan 2020.
+- **BAW R&D Programming Intern:** Jul 2014–Feb 2016.
+
+Selected contributions across these roles:
 
 - Built engineering tools with Python, VBA, C++, and MATLAB. Helped reduce an engineering process from four weeks to four days.
 - Developed an automation connecting electrical design, physical geometry, and finite element method (FEM) simulation of microdevices.
